@@ -1,0 +1,13 @@
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\bin\Debug\CohenSutherlandExample.exe.config
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\bin\Debug\CohenSutherlandExample.exe
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\bin\Debug\CohenSutherlandExample.pdb
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\bin\Debug\Algorithms.dll
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\bin\Debug\Algorithms.pdb
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\obj\Debug\CohenSutherlandExample.csprojAssemblyReference.cache
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\obj\Debug\CohenSutherlandExample.Form1.resources
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\obj\Debug\CohenSutherlandExample.Properties.Resources.resources
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\obj\Debug\CohenSutherlandExample.csproj.GenerateResource.cache
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\obj\Debug\CohenSutherlandExample.csproj.CoreCompileInputs.cache
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\obj\Debug\CohenSutherlandExample.csproj.CopyComplete
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\obj\Debug\CohenSutherlandExample.exe
+D:\CsharpHelper\Labs\dx11\DX11\CohenSunderlandExample\obj\Debug\CohenSutherlandExample.pdb
